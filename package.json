@@ -2,7 +2,7 @@
 
 {
   
-  "type": "commonjs",
+  "type": "module",
   "main":"app.js"
   
 }
